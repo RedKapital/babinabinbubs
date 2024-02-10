@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Заметки</title>
+
+</head>
+
+<body>
+	<input type="text" id="pow" placeholder="Vvedite zametku">
+	<br>
+	<input tupe="button" value="save">
+	<input tupe="button" value="zagruzit">
+
+</body>
+
+</html>
